@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_6957-Rejestracja z nieprawidłowy numerem telefonu</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>242ff404-9082-45a8-aefe-eaf26c4f29d1</testCaseGuid>
+</TestCaseEntity>
